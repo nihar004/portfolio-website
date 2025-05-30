@@ -407,7 +407,7 @@ const Portfolio = () => {
               About Me
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-              I'm a passionate AI & Software Engineer with expertise in
+              I&#39;m a passionate AI & Software Engineer with expertise in
               real-time systems, computer vision, and full-stack development.
               Currently pursuing B.Tech in CSE with a CGPA of 9.47, I love
               creating innovative solutions that make a real-world impact.
@@ -798,10 +798,10 @@ const Portfolio = () => {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
-              Let's Connect
+              Let&lsquo;s Connect
             </h2>
             <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-              I'm always excited to discuss new opportunities, innovative
+              I&lsquo;m always excited to discuss new opportunities, innovative
               projects, and potential collaborations.
             </p>
           </motion.div>
