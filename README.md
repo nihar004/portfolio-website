@@ -31,7 +31,7 @@ _May 2024 - July 2024_
 
 ## 🛠️ Featured Projects
 
-### 🎮 [AlgoPlayground](https://algoplayground.vercel.app/)
+### 🎮 [AlgoPlayground](https://algoplayground.vercel.app/category)
 
 _Interactive DSA Visualization Platform_
 
